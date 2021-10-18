@@ -95,6 +95,10 @@ img {
     font-size: 25px;
   }
 
+  .right{
+    margin-bottom: 10px;
+  }
+
   .container.grey {
     background-color: transparent;
   }
