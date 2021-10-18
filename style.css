@@ -112,8 +112,12 @@ img {
   margin-top: 20px;
 }
 
-
-
-
+/* BLOCCO PERCHE */
+#why .row>.first,
+#why .row>.second,
+#why .row>.third {
+  width: 100%;
+  margin-top: 20px;
+}
 
 }
